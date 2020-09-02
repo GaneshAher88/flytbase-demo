@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FlytBaseDemo</string>
+    <string name="mads_calculator">MADS Calculator</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="what_to_calculate">What to calculate ?</string>
+    <string name="exit_app">Exit app</string>
+    <string name="msg31">Are you sure you want to exit app?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+</resources>
